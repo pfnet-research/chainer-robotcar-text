@@ -6,7 +6,7 @@
 ## ダウンロード方法
 1. `Clone or download`をクリックする。
 2. `Download ZIP`をクリックしてzipファイル(`chainer-robotcar-text-master.zip`)をダウンロードする。
-3. zipファイルを展開して、テキストをビューワーで開く。
+3. zipファイルを展開して、テキスト(`chainer-robotcar-text-vx.x.x.pdf`)をビューワーで開く。
 ![my image](howtodownload.png)
 
 © 2019 Preferred Networks, Inc. and UNIVERSITY of YAMANASHI, All Rights Reserved. 
